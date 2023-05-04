@@ -1,9 +1,9 @@
 # PPG-based-Authentication
 Welcome to our PPG-based Authentication repository! Our team has been working on various aspects of this field and has produced a series of research projects.
 
-Our work includes projects like "Video is All You Need Attacking PPG based Biometric Authentication," which explores the vulnerability of PPG-based authentication systems to video-based attacks, and "Hiding Your Signals: A Security Analysis of PPG-based Biometric Authentication," which investigates ways to protect PPG-based systems from attacks that try to conceal signals.
+Our work includes projects like **"Video is All You Need Attacking PPG based Biometric Authentication"** which explores the vulnerability of PPG-based authentication systems to video-based attacks, and **"Hiding Your Signals: A Security Analysis of PPG-based Biometric Authentication"** which investigates ways to protect PPG-based systems from attacks that try to conceal signals.
 
-Additionally, we have developed SigD, a cross-session dataset that enables PPG-based user authentication across different demographic groups. If you're interested in these topics and want to stay updated on our latest research, we invite you to follow our work and get in touch with us.
+Additionally, we have developed **"SigD"**, a cross-session dataset that enables PPG-based user authentication across different demographic groups. If you're interested in these topics and want to stay updated on our latest research, we invite you to follow our work and get in touch with us.
 
 
 # SigD: A Cross-Session Dataset for PPG-Based User Authentication in Different Demographic Groups 
